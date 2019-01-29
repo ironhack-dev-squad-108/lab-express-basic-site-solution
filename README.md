@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Pick a celebrity or other topic and use Express to make a Website for it.
+Pick a celebrity or other topic and use Express to make a Website for it. If you are looking for some inspiration, you can go here: https://lab-express-basic-site-sol.herokuapp.com/ (it might takes time to load the page the first time)
 
 ## Requirements
 
